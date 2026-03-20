@@ -13,4 +13,4 @@ categories:
 source:
   id: pkg:pypi/composefmt@0.3.1
 bin:
-  black: pypi:composefmt
+  composefmt: pypi:composefmt
