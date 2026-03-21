@@ -2,7 +2,7 @@
 ---
 name: composefmt
 description: a simple docker compose formatter
-homepage: https://git.smsvc.net/docker/composefmt
+homepage: https://pypi.org/project/composefmt/
 licenses:
   - CC-BY-SA-4.0
 languages:
