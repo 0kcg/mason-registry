@@ -4,5 +4,6 @@
     "github>mason-org/registry-renovate-config",
     ":automergeAll",
     ":skipStatusChecks"
-  ]
+  ],
+  "automergeStrategy": "fast-forward"
 }
